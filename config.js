@@ -3,6 +3,7 @@ window.CONFIG = {
   casal: 'Marcos y Ana', dataEvento: '2026-12-12T19:00:00',
   contagem: { mensagemFinal: '¡La celebración ha comenzado!' },
   whatsapp: '5588994897535', // Substitua pelo número real, com código do país
+  video: { ativo: true, arquivo: 'assets/video.mp4' },
   musica: { ativa: true, arquivo: 'assets/musica.mp3', volume: 0.35 },
   imagens: {
     abertura: 'assets/opening.webp', principal: 'assets/principal.webp',

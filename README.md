@@ -21,3 +21,11 @@ Esta é uma primeira versão funcional para testes. Confira o comportamento em c
 
 ## Contagem regressiva
 A contagem aparece somente na página principal. Data em `dataEvento`, mensagem final em `contagem.mensagemFinal`. Edite a área `Contagem regressiva (página principal)` em `?editor=1`.
+
+## Ajustes para Marcos y Ana (novembro 2026)
+- Os cinco botões da página principal e os dois botões de localização são áreas clicáveis transparentes, sem rótulos visíveis (a arte WebP contém os rótulos).
+- Os textos de Nuestra Historia e Un mensaje para ti não possuem caixas ou fundos, apenas o texto animado.
+- As fotos Polaroid agora são mantidas no DOM, com transição animada de posição, inclinação, tamanho e profundidade.
+- `assets/video.mp4` é executado na abertura após o toque do convidado; quando termina, abre a página principal e inicia a música configurada.
+- `video.ativo` em `config.js` permite ativar/desativar o vídeo.
+- O editor continua exibindo contornos para reposicionar as áreas transparentes.
