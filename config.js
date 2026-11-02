@@ -2,7 +2,7 @@ window.CONFIG = {
   // ENGINE EM PORTUGUÊS; textos vistos pelos convidados em espanhol.
   casal: 'Marcos y Ana', dataEvento: '2026-12-12T19:00:00',
   contagem: { mensagemFinal: '¡La celebración ha comenzado!' },
-  whatsapp: '34600000000', // Substitua pelo número real, com código do país
+  whatsapp: '5588994897535', // Substitua pelo número real, com código do país
   musica: { ativa: true, arquivo: 'assets/musica.mp3', volume: 0.35 },
   imagens: {
     abertura: 'assets/opening.webp', principal: 'assets/principal.webp',
@@ -11,8 +11,8 @@ window.CONFIG = {
   },
   localizacao: {
     titulo: 'Itinerario de nuestra boda',
-    cerimonia: { nome: 'Ceremonia', hora: '19:00', endereco: 'Introduce aquí la dirección de la iglesia', mapa: 'https://maps.google.com/' },
-    recepcao: { nome: 'Celebración', hora: '21:00', endereco: 'Introduce aquí la dirección de la recepción', mapa: 'https://maps.google.com/' }
+    cerimonia: { nome: 'Ceremonia', hora: '19:00', endereco: 'Introduce aquí la dirección de la iglesia', mapa: 'https://maps.app.goo.gl/bPPWZtrAY4NKBYrB7' },
+    recepcao: { nome: 'Celebración', hora: '21:00', endereco: 'Introduce aquí la dirección de la recepción', mapa: 'https://maps.app.goo.gl/HXAeGLKR3tu6dKAFA' }
   },
   historia: {
     quantidadeFotos: 4, // de 3 a 6
