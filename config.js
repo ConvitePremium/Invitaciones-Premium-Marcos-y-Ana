@@ -96,6 +96,6 @@ window.CONFIG = {
     "w": 53.679996744791666,
     "h": 6.359814599536169
   }
-}
+},
   estilo: { corPrincipal:'#6c5141', corDourado:'#caa66a', corTexto:'#3d302b', fonteTexto:'Georgia, serif' }
 };
