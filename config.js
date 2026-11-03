@@ -20,7 +20,7 @@ window.CONFIG = {
     fotos: ['assets/historia1.webp','assets/historia2.webp','assets/historia3.webp','assets/historia4.webp','assets/historia5.webp','assets/historia6.webp'],
     texto: 'Todo comenzó con una mirada y una sonrisa. Desde aquel día, cada instante juntos se convirtió en parte de nuestra historia. Hoy queremos celebrar nuestro amor con las personas más importantes de nuestra vida.'
   },
-  mensagem: { texto: 'Querida familia y amigos: vuestra presencia es el regalo más bonito. Gracias por acompañarnos en el comienzo de esta nueva etapa. ¡Os esperamos con mucha ilusión!' },
+  mensagem: { texto: 'Querida familia y amigos: vuestra presencia es el regalo más bonito que podríamos recibir. Queremos daros las gracias de todo corazón por acompañarnos en el comienzo de esta nueva etapa de nuestras vidas. ¡Nos hace una felicidad inmensa compartir este día tan especial con todos vosotros y os esperamos con muchísima ilusión!' },
   animacao: { velocidadeDigitacao: 38 }, // milissegundos por caractere
   // Coordenadas em porcentagem da imagem vertical 9:16. Editáveis em ?editor=1.
   posicoes: {
